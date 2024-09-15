@@ -38,7 +38,7 @@ export default function Meditacao({ navigation }) {
   });
 
   if (!fontsLoaded) {
-    return null; // Adicione um componente de carregamento aqui, se desejar
+    return null;
   }
 
   return (
